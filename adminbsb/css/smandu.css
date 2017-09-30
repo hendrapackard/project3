@@ -1,0 +1,38 @@
+
+.form-error {
+    display: inline-block;
+    padding: 6px 10px 4px 25px;
+    color: #A94442;
+    background-image: url(../../adminbsb/images/icon_error.png);
+    background-position: 5px 7px;
+    background-repeat: no-repeat;
+    background-color: #F2DEDE;
+}
+ul.live-search-list {
+    width: 308px;
+    border: 1px solid #648E46;
+    z-index: 9;
+    background-color: #40bf40;
+    list-style: outside;
+}
+ul.live-search-list li {
+    padding: 2px;
+}
+ul.live-search-list li:hover {
+    background: #eaeaea;
+}
+.live-search-list {
+    display: none;
+}
+.upper{
+    text-transform: uppercase;
+}
+.double{
+    line-height: 2;
+}
+.justify {
+    text-align: justify;
+}
+.spasi5 {
+    margin-top: 5px;
+}
